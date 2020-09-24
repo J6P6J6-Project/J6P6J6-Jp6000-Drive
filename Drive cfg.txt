@@ -1,0 +1,17 @@
+Drive .config:
+
+BINS:
+Disk,
+Tasks,
+JP6000 - Index
+
+Cfgs:
+Main Drive; Cloud
+Security; Yes
+
+.config:
+Name = JP6000
+Drive = JP6 Cloud
+Drive id = JPJ6
+Name id = J6P
+
